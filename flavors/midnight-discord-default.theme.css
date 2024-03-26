@@ -1,8 +1,8 @@
 /**
- * @name midnight (nord)
- * @description A darkened discord theme. Based on nord theme (https://github.com/nordtheme/nord).
- * @author refact0r, anubis
- * @version 1.6.2
+ * @name midnight (discord)
+ * @description A rounded discord theme. Based on midnight theme.
+ * @author refact0r, Remco0o
+ * @version 1.0.0
  * @source https://github.com/refact0r/midnight-discord
  * @authorId 508863359777505290
 */
@@ -36,7 +36,7 @@
 
 	/* text colors */
 	--text-0: #2e3440; /* text on colored elements */
-	--text-1: #eceff4; /* other normally white text */
+	--text-1: #c4c6ca; /* other normally white text */
 	--text-2: #e5e9f0; /* headings and important text */
 	--text-3: #c4c6ca; /* normal text */
 	--text-4: #93a4c2; /* icon buttons and channels */
